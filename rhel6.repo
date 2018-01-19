@@ -1,0 +1,4 @@
+[rhel6]
+baseurl = file:///misc/cd
+name = rhel6
+gpgcheck = 0
