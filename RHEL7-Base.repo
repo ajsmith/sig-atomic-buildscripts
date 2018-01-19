@@ -1,0 +1,4 @@
+[RHEL7-Base]
+baseurl = file:///misc/cd
+name = RHEL7-Base
+# gpgcheck = 0
