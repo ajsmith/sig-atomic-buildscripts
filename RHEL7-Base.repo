@@ -1,4 +1,5 @@
 [RHEL7-Base]
-baseurl = file:///misc/cd
 name = RHEL7-Base
+baseurl = file:///misc/cd
+gpgkey = file:///misc/cd/RPM-GPG-KEY-redhat-release
 # gpgcheck = 0
